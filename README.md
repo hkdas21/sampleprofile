@@ -44,10 +44,6 @@
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hkdas21&theme=tokyonight"/>
 </p></br>
 
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Krishnapro.Krishnapro) -->
-
-<!-- <p align="center"> -->
-
 <table>
 <tr>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkdas21&langs_count=10&count_private=true&layout=compact&theme=tokyonight"/></td>
