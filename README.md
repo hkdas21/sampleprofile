@@ -11,8 +11,9 @@
 
 ## About Me 🚀
 
-- 👩‍💻  A Business Program Manager/Trainer working at <a href="https://www.microsoft.com/en-in/">Microsoft</a>. I have around 10 years experience in Cloud and DevOps and helped numerous customers with their workload deployment on Azure Cloud. I am also a trainer and helped upskill more than 1000 learners on Cloud, DevOps and AI. Reach out to me in case you are looking to upskill in these fields.
+- 👩‍💻  A Business Program Manager/Trainer working at <a href="https://www.microsoft.com/en-in/">Microsoft</a>. I have around 10 years experience in Cloud and DevOps and helped numerous customers with their workload deployment on Azure Cloud. I am also a trainer and helped upskill more than 1000 learners on Cloud, DevOps and AI. Reach out to me in case you are looking to upskill in these fields. Following is the list of all the badges that I have received so far
 
+Following is the list of all the badges that I have received so far
 
 <!--
 <table style="align-item: center">
@@ -58,7 +59,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
-<h3 align="center">A Business Program Manager/Trainer working at <a href="https://www.microsoft.com/en-in/">Microsoft</a>. I have around 10 years experience in Cloud and DevOps and helped numerous customers with their workload deployment on Azure Cloud. I am also a trainer and helped upskill more than 1000 learners on Cloud, DevOps and AI. Reach out to me in case you are looking to upskill in these fields.</h3>
+<h3 align="center">A Business Program Manager/Trainer working at <a href="https://www.microsoft.com/en-in/">Microsoft</a>. I have around 10 years experience in Cloud and DevOps and helped numerous customers with their workload deployment on Azure Cloud. I am also a trainer and helped upskill more than 1000 learners on Cloud, DevOps and AI. Reach out to me in case you are looking to upskill in these fields. Following is the list of all the badges that I have received so far.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hkdas21&label=Profile%20views&color=0e75b6&style=flat" alt="hkdas21" /> </p>
 
